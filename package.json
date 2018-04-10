@@ -1,0 +1,12 @@
+{
+  "name": "traffic-predictor",
+  "version": "0.0.1",
+  "description": "Neural network to try and predict traffic flows",
+  "main": "nn.js",
+  "dependencies": {
+    "synaptic": "^1.1.4",
+    "xml2json-cli": "^1.1.1"
+  },
+  "author": "Nat Lasseter <user@4574.co.uk>",
+  "license": "BSD-2-Clause"
+}
