@@ -2,3 +2,4 @@ node_modules/
 xport/
 json/
 *.ods
+Gemfile.lock
